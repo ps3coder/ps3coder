@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pankaj Sharma! 👋  
 
-<!--
-**ps3coder/ps3coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Backend Enthusiast | Cloud & Web3 Explorer  
 
-Here are some ideas to get you started:
+🔹 **Tech Stack:** React.js, Next.js, Flask, Django (REST, FAST), Express.js, Node.js  
+🔹 **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
+🔹 **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes  
+🔹 **Interests:** Backend Development, AI Integration, Web3, Cloud Computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps3coder&show_icons=true&theme=radical)  
+
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-sharma-925b2b250/) 
