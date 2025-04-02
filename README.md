@@ -51,8 +51,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ps3coder&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps3coder&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ps3coder&show_icons=true&theme=radical" width="68%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps3coder&theme=radical" width="68%" />
 </p>
 
 ---
